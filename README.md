@@ -1,4 +1,8 @@
-# RPGMakerGame_1
+# RPG Maker Game - No Title
 
-Game Notes
+## To Do
+Complete Kingdom map
+Work on Kingdom events
 
+## Completed
+Hero's Home Map and Events
