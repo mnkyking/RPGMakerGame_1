@@ -1,11 +1,7 @@
 # RPG Maker Game - No Title
 
 ## To Do
-Complete Kingdom map
- - kitchen
- - kings bedroom
- - dining area
- - kings throne room
+
 Work on Kingdom events
 - pig runs away from character or npc
 
