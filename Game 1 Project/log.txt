@@ -1,0 +1,10 @@
+Error: ENOENT: no such file or directory, open '/Users/robin/Robin/RPG Maker Projects/TheSpringGrimoires/RPGMakerGame_1/Game 1 Project/ATMZ_Config.json'
+    at Object.openSync (node:fs:495:3)
+    at Object.readFileSync (node:fs:396:35)
+    at LoadConfig (chrome-extension://njgcanhfjdabfmnlmpmdedalocpafnhl/js/plugins/ATFRMMZ.js:1:10556)
+    at chrome-extension://njgcanhfjdabfmnlmpmdedalocpafnhl/js/plugins/ATFRMMZ.js:1:31116 {
+  errno: -2,
+  syscall: 'open',
+  code: 'ENOENT',
+  path: '/Users/robin/Robin/RPG Maker Projects/TheSpringGrimoires/RPGMakerGame_1/Game 1 Project/ATMZ_Config.json'
+}

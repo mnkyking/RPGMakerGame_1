@@ -1,0 +1,17 @@
+Tall Rock A (Dirt Cave)|大きな岩A（土洞窟）
+Tall Rock B (Rock Cave)|大きな岩B（岩洞窟）
+Tall Rock C (Lava Cave)|大きな岩C（溶岩洞窟）
+Tall Lump of Ice|大きな氷塊
+Tall Rock D  (Grass Maze)|大きな岩D（草迷宮）
+Large Crystal|大きな水晶
+Large Growth|大型突起物
+Tall Rock E (Demonic World)|大きな岩E（魔界）
+Tall Rock A (Dirt Cave)|大きな岩A（土洞窟）
+Tall Rock B (Rock Cave)|大きな岩B（岩洞窟）
+Tall Rock C (Lava Cave)|大きな岩C（溶岩洞窟）
+Tall Lump of Ice|大きな氷塊
+Tall Rock D  (Grass Maze)|大きな岩D（草迷宮）
+Large Crystal|大きな水晶
+Large Growth|大型突起物
+Tall Rock E (Demonic World)|大きな岩E（魔界）
+
