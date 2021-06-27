@@ -1,0 +1,218 @@
+{
+"Chronus": [
+	"曜日配列",
+	"日時フォーマット1",
+	"日時フォーマット2"
+],
+"UsefulTimer": [
+	"Date Day Sun",
+	"Date Day Mon",
+	"Date Day Tue",
+	"Date Day Wed",
+	"Date Day Thu",
+	"Date Day Fri",
+	"Date Day Sat"
+],
+  "FTKR_ItemSubCommand": [
+    "Command Use Format",
+    "Command Equip Format",
+    "Command Discard Format",
+    "Command Cancel Format",
+    "Conf Title Format",
+    "Confirmation Ok Format",
+    "Confirmation Cancel Format"
+  ],
+  "GetInformation": [
+    "Get Gold Text",
+    "Lost Gold Text",
+    "Get Item Text",
+    "Lost Item Text",
+    "Get Item Text Num",
+    "Lost Item Text Num",
+    "Get Skill Text",
+    "Lost Skill Text",
+    "Exp Up Text",
+    "Exp Down Text",
+    "Lv Up Text",
+    "Lv Down Text",
+    "Param Up Text",
+    "Param Down Text",
+    "Abp Up Text",
+    "Abp Down Text",
+    "Class Lv Up Text",
+    "Class Lv Down Text",
+    "Formation Lv Up Text",
+    "Formation Lv Max Text"
+  ],
+  "sai_Scenefile": [
+  "Location TEXT",
+  "Gold TEXT"
+],
+"StateHelp": [
+  "Debuff Help HP1",
+  "Debuff Help HP2",
+  "Debuff Help MP1",
+  "Debuff Help ATK1",
+  "Debuff Help ATK2",
+  "Debuff Help DEF1",
+  "Debuff Help DEF2",
+  "Debuff Help MAT1",
+  "Debuff Help MAT2",
+  "Debuff Help MDF1",
+  "Debuff Help MDF2",
+  "Debuff Help AGI1",
+  "Debuff Help AGI2",
+  "Debuff Help LUK1",
+  "Debuff Help LUK2",
+  "Buff Help HP1",
+  "Buff Help HP2",
+  "Buff Help MP1",
+  "Buff Help ATK1",
+  "Buff Help ATK2",
+  "Buff Help DEF1",
+  "Buff Help DEF2",
+  "Buff Help MAT1",
+  "Buff Help MAT2",
+  "Buff Help MDF1",
+  "Buff Help MDF2",
+  "Buff Help AGI1",
+  "Buff Help AGI2",
+  "Buff Help LUK1",
+  "Buff Help LUK2"
+],
+"KMS_ExtendStatusScene":
+  [
+  "Caption for element",
+  "Caption for state"
+  ],
+  "Torigoya_Achievement":
+  [
+  "Popup Message",
+  "Menu Text",
+  "List Hidden Title",
+  "List Hidden Description",
+  "List Cancel Message"
+],
+"CTRS_TradeShop":
+[
+"tradeItemTanni"
+],
+"PNDK_LuggageCapacity":
+[
+"Attribute name"
+],
+"KMS_ShopInventory":
+[
+  "Sold out text",
+  "Caption for stock"
+],
+"FTKR_ItemBoxCategory":
+[
+  "Category Item Name",
+  "Category All Name"
+],
+"PH_Warehouse": [
+  "Withdraw Text",
+  "Deposit Text",
+  "All Text",
+  "Available Space Text"
+  ],
+"MPP_EquipStatusEX": [
+  {"xparams": ["hit", "eva", "cri", "cev", "mev", "mrf", "cnt", "mrf", "hrg", "mrg", "trg"]},
+  {"sparams": ["tgr", "grd", "rev", "pha", "mcr", "tcr", "pdr", "mdr", "fdr", "exr"]},
+  "Element Rate",
+  "Debuff Rate",
+  "State Rate",
+  "State Resist"
+],
+"Mano_InputConfig": [
+  "text",
+  "textApply",
+  "textRollback",
+  "textDefault",
+  "textExit",
+  "textEmpty",
+  "textOK",
+  "textCancel",
+  "textShift",
+  "textMenu",
+  "textPageup",
+  "textPagedown",
+  "textEscape",
+  "textSymbol6",
+  "textSymbol7",
+  "textSymbol8",
+  "commandName",
+  "keyconfigCommandName"
+],
+"FTKR_CustomSimpleActorStatus":
+[
+"Custom 0 Display Name",
+"Custom 2 Display Name"
+],
+"FTKR_SkillTreeSystem":
+[
+"Command Name",
+"Display Get Sp",
+"Cost Title Format",
+"Preskill Title Format",
+"Conf Title Format",
+"Confirmation Ok Format",
+"Confirmation Cancel Format"
+],
+"111_InputForm": 
+[
+"OK Button Text",
+"Cancel Button Text"
+],
+"AnotherNewGame":
+[
+"name"
+],
+"CBR_eroStatus_main":
+[
+"eroStaName"
+],
+"Mano_OneButtonCommonEventCall":
+[
+{"commonA": ["text"]},
+{"commonB": ["text"]},
+{"commonC": ["text"]}
+],
+"CustomizeConfigItem":
+[
+{"文字項目": ["Name", "StringItems"]}
+],
+"LoadComSim":
+[
+"loadtext"
+],
+"SceneGlossary":
+[
+{"GlossaryInfo":["CommandName", "ConfirmUse", "ConfirmNoUse", "GlossaryHelp", "CategoryHelp", "ConfirmHelp", "UsingHelp", "CompleteMessage"]},
+"CategoryOrder"
+],
+"TMMapHpGauge":
+[
+{"gaugeA":["name"]},
+{"gaugeB":["name"]},
+{"gaugeC":["name"]},
+{"gaugeD":["name"]},
+{"gaugeE":["name"]},
+{"gaugeF":["name"]},
+{"gaugeG":["name"]},
+{"gaugeH":["name"]},
+{"gaugeI":["name"]},
+{"gaugeJ":["name"]},
+{"gaugeK":["name"]},
+{"gaugeL":["name"]},
+{"gaugeM":["name"]},
+{"gaugeN":["name"]},
+{"gaugeO":["name"]}
+],
+"TkoolMV_PluginCommandBook":
+[
+"制御文字の拡張",
+"スクリプトに制御文字適用"
+]
+}
